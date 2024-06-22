@@ -1,5 +1,7 @@
 # Cognizant-AI-Virtual-Internship
 
+![image](https://github.com/vansh-py04/British-Airways-Data-Science-Job-Simulation-/assets/128248352/5e301c18-29fc-4f48-9d1c-fb9767206102)
+
 Cognizant Artificial Intelligence Job Simulation on Forage - June 2024
 
 -> Completed a job simulation focused on AI for Cognizant’s Data Science team.
